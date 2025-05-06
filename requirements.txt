@@ -1,0 +1,2 @@
+Newtonsoft.Json >= 13.0.3
+RestSharp >= 110.2.0
